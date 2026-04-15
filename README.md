@@ -101,5 +101,3 @@ We scraped real-time travel package data:
 
 ---
 
-## 3️ Price vs Final Price (Scatter Plot)
-- Shows a strong **positi**
